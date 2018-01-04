@@ -1,0 +1,10 @@
+[package]
+name = "bifrost"
+version = "0.1.0"
+authors = ["Paul Hummer <paul@eventuallyanyway.com>"]
+
+[dependencies]
+ansi-escapes = "0.1.0"
+hlua = "0.4.1"
+serde = "1.0"
+serde_yaml = "0.7"
